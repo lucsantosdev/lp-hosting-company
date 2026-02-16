@@ -192,6 +192,12 @@ lp-hosting-company/
 
 Este proyecto está licenciado bajo la Licencia MIT - siéntase libre de usarlo como plantilla para sus propios proyectos.
 
+## 💛 Apoyo
+
+Si encontró este proyecto útil o aprendió algo nuevo, considere apoyar mi trabajo:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucsantosdev)
+
 ## 💬 Conéctese Conmigo
 
 Siga mi viaje y otros proyectos:
@@ -202,12 +208,6 @@ Siga mi viaje y otros proyectos:
 | 🐙 **GitHub** | [@lucsantosdev](https://github.com/lucsantosdev) |
 | 📧 **Email** | [lucsantosdev@gmail.com](mailto:lucsantosdev@gmail.com) |
 
-## 💛 Apoyo
-
-Si encontró este proyecto útil o aprendió algo nuevo, considere apoyar mi trabajo:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lucsantosdev)
-
 ---
 
-⚡ Construido con cariño por [@lucsantosdev](https://github.com/lucsantosdev)
+🧠 Je 9:23-24
