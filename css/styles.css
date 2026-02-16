@@ -125,6 +125,36 @@ nav {
   margin-left: 25px;
 }
 
+.lang-item {
+  margin-left: 18px;
+}
+
+.lang-switcher {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px;
+  border-radius: 999px;
+  border: 1px solid rgba(226, 210, 181, 0.4);
+}
+
+.lang-btn {
+  background: transparent;
+  border: none;
+  color: var(--accent-soft);
+  font-size: 11px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 999px;
+}
+
+.lang-btn.is-active {
+  background: rgba(226, 210, 181, 0.2);
+  color: var(--white);
+}
+
 .navbar-items a {
   color: var(--white);
   text-decoration: none;
@@ -762,6 +792,10 @@ nav {
   .navbar-items li {
     display: block;
     margin: 12px 0;
+  }
+
+  .lang-item {
+    margin-left: 0;
   }
 
   .navbar-items li {
